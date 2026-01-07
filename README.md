@@ -2,7 +2,7 @@
   <img src="https://gizmopowered.ru/images/gizmo-logo.svg" height=42 />
 </div>
 <div align="center">
-**ОБХОД ОБОЛОЧКИ ГИЗМО**
+ОБХОД ОБОЛОЧКИ ГИЗМО
 </div>
 
 > [!CAUTION]

@@ -26,7 +26,7 @@
 2. Далее ссылаясь на <a href="https://github.com/Flowseal/zapret-discord-youtube">этот</a> репозиторий мы достаем прямую ссылку на скачку *.zip файла
    * Чтобы достать прямую ссылку мы кликаем правой кнопкой мыши на файл и копируем его ссылку:
    *<div align="center">
-  <img src="https://sun9-29.userapi.com/s/v1/ig2/WFvEm35FmLFBoFE863Wb2jNrrK9JmvOdoXymgEcJ7N0KTIi6NpIyqr4lNcA5jWkeXA_nzXviKnBedUAm24Wpum1s.jpg?quality=95&as=32x15,48x22,72x34,108x50,160x74,240x112,360x168,480x223,540x251,640x298,720x335,898x418&from=bu&cs=898x0" height=42 />
+  <img src="https://sun9-29.userapi.com/s/v1/ig2/WFvEm35FmLFBoFE863Wb2jNrrK9JmvOdoXymgEcJ7N0KTIi6NpIyqr4lNcA5jWkeXA_nzXviKnBedUAm24Wpum1s.jpg?quality=95&as=32x15,48x22,72x34,108x50,160x74,240x112,360x168,480x223,540x251,640x298,720x335,898x418&from=bu&cs=898x0" height=500 />
 </div>
    
 

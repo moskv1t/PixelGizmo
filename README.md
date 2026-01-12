@@ -91,6 +91,8 @@
 ``` PowerShell
 Invoke-WebRequest -Uri "https://github.com/Flowseal/zapret-discord-youtube/releases/download/1.9.3/zapret-discord-youtube-1.9.3.zip" -OutFile "C:\Users\Pixel\Downloads"
 ```
+>UPD. Параметр ```-OutFile``` пофиксили, переходим в нужную папку вручную
+
 __Данная команда позволяет скачать zapret-discord-youtube-1.9.3.zip в папку Загрузки(Downloads).__
 
 ### 2. Разархивируем файл
